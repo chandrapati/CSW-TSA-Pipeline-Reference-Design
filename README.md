@@ -127,4 +127,4 @@ Authoritative source(s) for **TSA Pipeline Security Directive**. Always validate
 
 This repository is for informational and planning purposes. It is **not** legal, regulatory, audit, or certification advice, and it is **not** a TSA Pipeline Security Directive attestation. Validate all control references against the current official TSA Pipeline Security Directive text ([official source](https://www.tsa.gov/for-industry/surface-transportation)), your environment, and your qualified assessor. Replace any bracketed fields before customer delivery.
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*

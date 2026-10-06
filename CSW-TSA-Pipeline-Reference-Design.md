@@ -102,7 +102,7 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 **Console areas:** Investigate (inventory, flows, vulns) · Defend/Segmentation (policy) · Manage (agents) · Platform (connectors) · Administration (audit log)
 
-**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/about-csw.md) (platform intro)
+**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/about-csw.md) (platform intro)
 
 ---
 
@@ -610,24 +610,24 @@ The TSA Pipeline SD shares substantial control surface with:
 - **NIST SP 800-53 Rev 5** — almost all SD substantive requirements
   have direct 800-53 analogues (AC-3, AC-4, SC-7, SI-4, RA-5, CM-2,
   CM-3, CM-7, AU-2, IR-4 cover the bulk of Sections III.A–III.D).
-  See [800-53 runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md).
+  See [800-53 runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md).
 - **NIST SP 800-207 (ZTA)** — the deny-by-default, identity-aware,
   observability-driven posture in §3, §5, and §6 implements the
   seven ZTA tenets in the pipeline IT context. See
-  [800-207 runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-207/CSW-NIST-800-207-Technical-Runbook.md).
+  [800-207 runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-207/CSW-NIST-800-207-Technical-Runbook.md).
 - **NIST SP 800-82 Rev 3** *(out of repository scope but worth
   pairing externally)* — guide to OT security; CSW addresses the IT
   estate around the OT footprint that 800-82 describes.
 - **NERC CIP** — sister sector framework for the bulk electric
   system; identical IT-side patterns apply. See
-  [NERC CIP runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NERC-CIP/CSW-NERC-CIP-Technical-Runbook.md).
+  [NERC CIP runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NERC-CIP/CSW-NERC-CIP-Technical-Runbook.md).
 - **ISO/IEC 27001:2022** — entities operating under ISO 27001 can
   re-use Annex A.8 evidence. See
-  [ISO 27001 runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md).
+  [ISO 27001 runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md).
 - **CISA Zero Trust Maturity Model** — the SD's substantive
   requirements align with CISA ZTMM Network and Application/Workload
   pillars on the IT side. See
-  [CISA ZTMM runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/CISA-ZeroTrust/CSW-CISA-ZTMM-Technical-Runbook.md).
+  [CISA ZTMM runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/CISA-ZeroTrust/CSW-CISA-ZTMM-Technical-Runbook.md).
 
 ---
 
@@ -668,4 +668,4 @@ before being relied upon in a formal compliance engagement.
 
 ---
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
